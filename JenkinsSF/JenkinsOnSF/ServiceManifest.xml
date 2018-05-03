@@ -13,7 +13,7 @@
     </SetupEntryPoint>
     <EntryPoint>
       <ContainerHost>
-        <ImageName>rapatchi/jenkins:v10</ImageName>
+        <ImageName>rapatchi/jenkins:latest</ImageName>
         <Commands></Commands>
       </ContainerHost>
     </EntryPoint>
