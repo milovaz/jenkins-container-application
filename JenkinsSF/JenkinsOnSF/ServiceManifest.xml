@@ -13,7 +13,7 @@
     </SetupEntryPoint>
     <EntryPoint>
       <ContainerHost>
-        <ImageName>rapatchi/jenkins:latest</ImageName>
+        <ImageName>milovaz/jenkins-docker-sf:latest</ImageName>
         <Commands></Commands>
       </ContainerHost>
     </EntryPoint>
